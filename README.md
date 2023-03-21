@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoyMoran210
 - 👀 I’m interested in gaming, body building/power lifting, and cooking!
-- 🌱 I’m currently learning about full stack development.
-- 💞️ I’m looking to collaborate on projects that improve quality of life, automation, and full stack development, and possibly UX/UI.
+- 🌱 I’m currently learning about Unity and C++.
+- 💞️ I’m looking to collaborate on projects that improve quality of life and / or automating tasks.
 - 📫 How to reach me: email and DM's are the best way.
 
 <!---
