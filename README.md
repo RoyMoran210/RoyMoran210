@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoyMoran210
+- 👋 Hi, my name is Roy Moran and I am open to connect with you!
 - 👀 I’m interested in gaming, body building/power lifting, and cooking!
 - 🌱 I’m currently learning about Unity and C++.
 - 💞️ I’m looking to collaborate on projects that improve quality of life and / or automating tasks.
